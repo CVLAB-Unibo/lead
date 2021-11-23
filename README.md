@@ -1,12 +1,12 @@
 # LEAD
 Code Repository for Unsupervised Learning of Local EquivariantDescriptors for Point Clouds.
 
-[[`Paper`]()]
+[[`Paper`](https://www.computer.org/csdl/journal/tp/5555/01/09609696/1yoxG62W1La)]
 [[`arXiv`]()]
 [[`Project Page`]()]
 
-> [Unsupervised Learning of Local EquivariantDescriptors for Point Clouds]()
-> Marcon M., Spezialetti R., Salti S., Silva L.,Di Stefano, L.
+> [Unsupervised Learning of Local EquivariantDescriptors for Point Clouds]()         
+> Marcon M., Spezialetti R., Salti S., Silva L.,Di Stefano, L.      
 > IEEE Transactions on Pattern Analysis & Machine Intelligence 01 (2021)
 
 ## Demo
